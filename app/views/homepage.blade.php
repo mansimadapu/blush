@@ -48,25 +48,29 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#" style="color:rgb(238, 30, 38);">Blushhh...</a>
+              <a class="navbar-brand" href="#" style="color:rgb(238, 30, 38);">BLUSH</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="#">Home</a></li>
-                <li><a href="#about">Reviews</a></li>
-                <li><a href="#contact">Forum</a></li>
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products <span class="caret"></span></a>
+
+                <li class="dropdown ">
+
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" rel="nofollow">Products <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="#">Action</a></li>
-                    <li><a href="#">Another action</a></li>
-                    <li><a href="#">Something else here</a></li>
-                    <li class="divider"></li>
+                    <li><a href="#">Make-Up</a></li>
+                    <li><a href="#">Body & Skin Care</a></li>
+                    <li><a href="#">Hair Care</a></li>
+                    <li><a href="#">Fragrances</a></li>
+                    <!-- <li class="divider"></li>
                     <li class="dropdown-header">Nav header</li>
                     <li><a href="#">Separated link</a></li>
-                    <li><a href="#">One more separated link</a></li>
+                    <li><a href="#">One more separated link</a></li> -->
                   </ul>
                 </li>
+                <li><a href="#about">Reviews</a></li>
+                <li><a href="#contact">Forum</a></li>
+                
               </ul>
             </div>
           </div>
@@ -87,7 +91,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="http://placehold.it/1707x500" alt="First slide">
+          <img src="assets/img/1.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Example headline.</h1>
@@ -97,7 +101,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="http://placehold.it/1707x500" alt="Second slide">
+          <img src="assets/img/2.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Another example headline.</h1>
@@ -107,7 +111,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="http://placehold.it/1707x500" alt="Third slide">
+          <img src="assets/img/3.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>One more for good measure.</h1>
